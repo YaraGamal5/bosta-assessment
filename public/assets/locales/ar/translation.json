@@ -1,0 +1,59 @@
+{
+  "title": {
+    "home": "الرئيسية",
+    "pricing": "الأسعار",
+    "contact-sales": "كلم المبيعات",
+    "tracking-shipment": "تتبع شحنتك",
+    "sign-in": "تسجيل الدخول"
+  },
+  "tracking_search": {
+    "header": "تتبع شحنتك",
+    "description": "اكتب رقم الشحنة وتابع شحنتك خطوة بخطوة",
+    "placeholder": "رقم الشحنة"
+  },
+  "trackingStatus": {
+    "TrackingNumber": "رقم الشحنة",
+    "LastUpdated": "اخر تحديث",
+    "MerchantName": "اسم التاجر",
+    "DeliveryTimeWithin": "موعد التسليم في خلال"
+  },
+  "trackingTable": {
+    "header": "تفاصيل الشحنة",
+    "branch": "الفرع",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "details": "تفاصيل"
+  },
+
+  "reportProblem": {
+    "header": "عنوان التسليم",
+    "question": "هل يوجد مشكلة فى شحنتك ؟",
+    "button": "إبلاغ عن مشكلة"
+  },
+
+  "dummyLocationShort": "مدينة نصر",
+  "dummyLocationLong": "امبابة شارع طلعت حرب مدينة العمال بجوار البرنس منزل 17 بلوك 22,,,القاهرة",
+
+  "comingSoon": "ترقبوا قريبا",
+  "notFoundPageMessage": " خطاء 404 !!! لم يتم العثور على هذه الصفحة ",
+
+  "dateLong": "{{val, long}}",
+  "dateLong2": "{{val, long2}}",
+  "dateShort": "{{val, short}}",
+  "dateTime": "{{val, time}}",
+  "number": "{{val, number}}",
+
+  "companyName": "بوسطة",
+
+  "tracking": {
+    "TICKET_CREATED": "تم إنشاء الشحنة",
+    "PACKAGE_RECEIVED": "تم استلام الشحنة من التاجر",
+    "NOT_YET_SHIPPED": "لم يتم شحنه بعد",
+    "OUT_FOR_DELIVERY": "الشحنة خارجة للتسليم",
+    "IN_TRANSIT": "الشحنة في العبور",
+    "RECEIVED_DELIVERY_LOCATION": "تم الوصول إلى موقع التسليم",
+    "WAITING_FOR_CUSTOMER_ACTION": "في انتظار تصرف العميل",
+    "DELIVERED": "تم التسليم",
+    "DELIVERED_TO_SENDER": "تم تسليم الشحنة للتاجر"
+  }
+}
